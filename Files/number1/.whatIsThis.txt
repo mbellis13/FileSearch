@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo 'Is this a text file?'
+echo 'check the executable bit'
+ls -l -a
